@@ -3,7 +3,7 @@ div{
     border: 2px solid black;    
 }
 .mainDiv{
-    width:888px;    
+    width:890px;    
 }
 
 h2.elementDescription{      
@@ -11,7 +11,7 @@ h2.elementDescription{
     padding: 20px;        
 }
 .element1{
-    width: 885px;
+    width: 887px;
     height: 150px;    
     background-color: yellow;
 }
@@ -41,6 +41,7 @@ h2.elementDescription{
 
 .element5{
     margin: 0;    
+    float: right;
 }
 .element6{
     display: inline-block;
