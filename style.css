@@ -2,16 +2,13 @@
 div{
     border: 2px solid black;    
 }
-
 .mainDiv{
     width:888px;    
 }
 
 h2.elementDescription{      
     text-align: center;
-    /*float: right;*/
-    padding: 20px;    
-    
+    padding: 20px;        
 }
 .element1{
     width: 885px;
@@ -29,7 +26,6 @@ h2.elementDescription{
     height: 600px;
     background-color: blue;
     float: left;
-    /*display: inline-block;*/
 }
 .element3{
     margin: 0 15px;
@@ -37,7 +33,6 @@ h2.elementDescription{
     height: 600px;
     float: left;
     background-color: tomato;
-    /*display: inline-block;*/
 }
 .element4{
     background-color: white;
