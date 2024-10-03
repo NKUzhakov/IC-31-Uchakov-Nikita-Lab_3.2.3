@@ -1,0 +1,52 @@
+
+div{
+    border: 2px solid black;    
+}
+
+.mainDiv{
+    width:888px;    
+}
+
+h2.elementDescription{      
+    text-align: center;
+    /*float: right;*/
+    padding: 20px;    
+    
+}
+.element1{
+    width: 885px;
+    height: 150px;    
+    background-color: yellow;
+}
+.inner1{
+    width: 400px;
+    height: 80px;
+    background-color: white;
+    margin: 35px;
+}
+.element2{
+    width: 210px;
+    height: 600px;
+    background-color: blue;
+    float: left;
+    /*display: inline-block;*/
+}
+.element3{
+    margin: 0 15px;
+    width: 210px;
+    height: 600px;
+    float: left;
+    background-color: tomato;
+    /*display: inline-block;*/
+}
+.element4{
+    background-color: white;
+    margin-left: 0;
+}
+
+.element5{
+    margin: 0;    
+}
+.element6{
+    display: inline-block;
+}
